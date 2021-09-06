@@ -37,12 +37,9 @@
 
     <!-- Applications -->
     <load module="mod_conference"/>
-    <load module="mod_signalwire"/>
 
     <!-- Endpoints -->
     <load module="mod_sofia"/>
-    <load module="mod_rtc"/>
-    <load module="mod_verto"/>
 
   </modules>
 </configuration>
